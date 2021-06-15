@@ -1,7 +1,7 @@
 {
   "name": "planar",
   "version": "1.0.0",
-  "description": "",
+  "description": "This SSG is inspired by [Kartik Nair](https://github.com/kartiknair/blog)",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -16,5 +16,14 @@
     "front-matter": "^3.1.0",
     "fs-extra": "^10.0.0",
     "marked": "^0.8.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatashaAC/simple-SSG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NatashaAC/simple-SSG/issues"
+  },
+  "homepage": "https://github.com/NatashaAC/simple-SSG#readme"
 }
